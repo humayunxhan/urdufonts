@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Jameel Noori Nastaleeq';
+    src: url('../fonts/JameelNooriNastaleeq.eot');
+    src: url('../fonts/JameelNooriNastaleeq.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JameelNooriNastaleeq.woff2') format('woff2'),
+        url('../fonts/JameelNooriNastaleeq.woff') format('woff'),
+        url('../fonts/JameelNooriNastaleeq.ttf') format('truetype'),
+        url('../fonts/JameelNooriNastaleeq.svg#JameelNooriNastaleeq') format('svg');
+unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
